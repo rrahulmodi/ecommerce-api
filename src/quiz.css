@@ -1,0 +1,10 @@
+.questions {
+  text-align: center;
+  display: flex;
+  margin: 100px;
+  border: solid 2px;
+}
+h2 {
+  margin-right: 120px;
+  margin-left: 120px;
+}
